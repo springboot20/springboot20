@@ -22,5 +22,5 @@ A brief description of what the project does and why it's awesome.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abbas-opeyemi-laba14260?utm_source=share&utm_campaign=share_cia&utm_content=profile&utm_medium=android_app)
-- [Twitter](https://twitter.com/Abb/)
+- [Twitter](https://twitter.com/@AbkanbiOpe35251/)
 - [Email](mailto:opeyemiakanbi328@gmail.com)
