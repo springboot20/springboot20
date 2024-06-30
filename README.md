@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm YUNUS Abbas Opeyemi (A.K.A CodeSuite) 👨🏽‍💻
 
-<!--
-**springboot20/springboot20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Front-End Developer with a keen eye for detail and a love for crafting beautiful, responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building interactive and user-friendly interfaces.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- 🌐 **Front-End Development**: HTML, CSS, JavaScript
+- ⚛️ **Frameworks & Libraries**: React, TailwindCSS
+- 🛠️ **Tools & Platforms**: Git, GitHub, VS Code
+- 🎨 **UI/UX Design**: Figma, Adobe XD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+
+### [Project Name](#)
+A brief description of what the project does and why it's awesome.
+
+### [Another Project](#)
+A brief description of what the project does and why it's awesome.
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=springboot20&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Twitter](https://twitter.com/Abb/)
+- [Email](mailto:opeyemiakanbi328@gmail.com)
