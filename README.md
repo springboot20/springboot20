@@ -1,4 +1,4 @@
-# 👋 Hi there, I'my Yunus Abbas Opeyemi (A.K.A CodeSuite) 👨🏽‍💻
+# 👋 Hi there, I'm Yunus Abbas Opeyemi (A.K.A CodeSuite) 👨🏽‍💻
 
 ## 🚀 About Me
 I'm a passionate Front-End Developer with a keen eye for detail and a love for crafting beautiful, responsive web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building interactive and user-friendly interfaces.
