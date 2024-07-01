@@ -19,7 +19,7 @@ A brief description of what the project does and why it's awesome.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=springboot20&show_icons=true&theme=radical)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CodeSuite)
+![WakaTime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=@CodeSuite](https://wakatime.com/share/@CodeSuite/b9d440af-3d83-443a-81c7-de03a3538527.svg)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abbas-opeyemi-laba14260?utm_source=share&utm_campaign=share_cia&utm_content=profile&utm_medium=android_app)
