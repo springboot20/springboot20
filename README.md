@@ -18,7 +18,7 @@ A brief description of what the project does and why it's awesome.
 A brief description of what the project does and why it's awesome.
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=springboot20&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=springboot20&show_icons=true&theme=tokyonight)
 [![WakaTime stats](https://wakatime.com/share/@CodeSuite/3f4a2648-c794-41e2-aaed-f0f2b67e0771.png)](https://wakatime.com/)
 
 ## 🌐 Connect with Me
