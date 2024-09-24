@@ -22,6 +22,6 @@ A brief description of what the project does and why it's awesome.
 [![WakaTime stats](https://wakatime.com/share/@CodeSuite/3f4a2648-c794-41e2-aaed-f0f2b67e0771.png)](https://wakatime.com/)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/abbas-opeyemi-laba14260?utm_source=share&utm_campaign=share_cia&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/abbas-opeyemi-1aba14260/)
 - [Twitter](https://twitter.com/@AbkanbiOpe35251/)
 - [Email](mailto:opeyemiakanbi328@gmail.com)
